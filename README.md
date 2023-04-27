@@ -1,5 +1,5 @@
-# Empirical-Finance
-Holds undergraduate dissertation in Empirical Finance and details of analysis conducted in Excel.
+# Empirical Finance Research
+This repository holds my undergraduate dissertation in Empirical Finance and details of the analysis conducted in Excel.
 
 <br/>
 
@@ -10,12 +10,6 @@ to be value-decreasing for acquirers in the high-tech industry. However, the res
 product announcement by Cadence also yields insignificant results. The main implication of these results is that acquisitions are zero net present value projects for acquirers. On the contrary, positive and significant short-run abnormal returns are found for the target, Verisity, supporting previous literature that finds acquisition announcements to be beneficial to target shareholders.
 
 <br />
-
-### Methodology
-
-This study uses event study methodology to test the specified hypotheses. The empirical analysis requires the identification of an event of interest and the calculation of expected stock returns using a benchmark model. However, ultimately, the practice is broadly based on a single principle: abnormal returns.
-
-<br/>
 
 ### File Descriptions
 
