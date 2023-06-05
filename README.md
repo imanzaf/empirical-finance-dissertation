@@ -1,6 +1,4 @@
 # Empirical Finance Research
-This repository holds my undergraduate dissertation in Empirical Finance and details of the analysis conducted in Excel.
-
 <br/>
 
 ### Abstract
