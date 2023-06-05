@@ -1,5 +1,4 @@
 # Empirical Finance Research
-<br/>
 
 ### Abstract
 
