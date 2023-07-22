@@ -1,4 +1,4 @@
-# Empirical Finance Research
+# Consolidation In The Electronic Design Automation Industry: An Empirical Analysis Of The Impact Of A High-tech Acquisition On Shareholder Wealth
 
 ### Abstract
 
